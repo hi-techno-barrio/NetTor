@@ -1,9 +1,9 @@
-/*
 Christopher Coballes
-Hi-Techno Barrio
-Bicol,Philippines
+R&D Engineer
+Bicol,Hi-Techno Barrio
 
-*/
+" Please observer copyright permission of the software 
+available "
 
 NetTor.C this program includes the following features:
 
