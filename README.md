@@ -25,3 +25,11 @@ Copying a backup file to a remote server via FTP
 Displaying a colored box with a message in the terminal
 Sending network monitoring data (including the highest file size) to a Google Sheets spreadsheet using the Google Sheets API
 These features provide a comprehensive view of the network status and help automate common tasks such as backup and data storage.
+
+NetTor3.c this program features are:
+
+Printing a list of open ports on the local machine.
+Finding the file with the highest size in the current directory.
+Printing a list of running services on the system.
+Sending network monitoring data (including the highest file size, open ports, running services, IP address, and current date) to a Google Sheets spreadsheet using the Google Sheets API and authentication credentials.
+Displaying a colored box with a message using ANSI escape codes.
