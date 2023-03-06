@@ -16,7 +16,7 @@ The program is written in C and runs in a CLI environment.
 The program includes error checking and handles errors gracefully
 
 
-NetTor2.c the program provides a suite of network monitoring tools, including:
+NetTor2.c the program provides a suite of network monitoring tools:
 
 Printing a list of open ports on the local machine
 Finding the file with the highest size in the current directory
